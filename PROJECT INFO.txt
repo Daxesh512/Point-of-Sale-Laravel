@@ -1,0 +1,31 @@
+**Log on to codingabelweb.com for more projects!***
+
+
+**Developed by codingabel**
+
+
+**Check the video for all the Installation Instructions**
+
+
+---Admin Login Details---
+
+Email   : admin@mail.com
+Password: 123456
+
+
+
+**Check the video for all the Installation Instructions**
+
+Instructions: How to Run?
+After you finish downloading the project, unzip the project file.
+Open the project folder, check for the env file, and update the database credentials.
+Create a  MySQL database with the name provided inside the env file.
+Then, open the project in the Terminal or Command Prompt.
+Install the composer dependencies: composer install
+Now migrate the tables: php artisan migrate
+Run seeder: php artisan db:seed
+Then generate the key: php artisan key:generate
+And finally, run the project: php artisan serve
+It will start the application and give you a URL.
+At last, open the URL in your favorite browser; we recommend using Google Chrome.
+All the login details are provided inside the project folder[text files], check that out and enter them in order to use it.
